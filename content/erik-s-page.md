@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Erik's Page"
 [[blocks]]
 background_image = ""
