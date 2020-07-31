@@ -1,6 +1,6 @@
 +++
 title = "Erik's Page"
-menu = "main"
+[menu.main]
 [[blocks]]
 background_image = ""
 background_style = "Brand Color"
@@ -17,5 +17,16 @@ content = "Regular text above the button pls"
 heading = "CALL TO ACTION"
 subheading = "very loud"
 template = "call-to-action"
+[[blocks]]
+background_style = "Dark"
+button_text = ""
+button_url = ""
+content = "Erik's Content"
+heading = "Media Heading"
+image = ""
+image_position = "Left"
+image_shadow = false
+subheading = "Media Subheading"
+template = "media-feature"
 
 +++
