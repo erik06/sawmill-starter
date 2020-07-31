@@ -1,4 +1,4 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "sawmill"
 title = "Sawmill"
