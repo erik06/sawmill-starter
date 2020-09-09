@@ -28,5 +28,16 @@ image_position = "Left"
 image_shadow = false
 subheading = "Media Subheading"
 template = "media-feature"
+[[blocks]]
+background_style = "Dark"
+button_text = "Go to Google"
+button_url = "http://www.google.com"
+content = "This is the content box, Lorem ipsum dolar sit amet"
+heading = "Media Feature"
+image = "/uploads/2020/09/09/screen-shot-2020-09-09-at-11-34-51.png"
+image_position = "Left"
+image_shadow = true
+subheading = "With a subheading"
+template = "media-feature"
 
 +++
